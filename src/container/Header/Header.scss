@@ -1,6 +1,6 @@
 #home {
   position: relative;
-  background: url("../../assets/bgIMG.png");
+  background: url('../../assets/bgIMG.png');
   background-size: cover;
   background-position: center;
   background-repeat: repeat;
@@ -174,7 +174,8 @@
 
   .img12 {
     height: 500px;
-    margin-bottom: 50px;
+    border-radius: 60%;
+    margin-bottom: 34px;
   }
 
   img {
